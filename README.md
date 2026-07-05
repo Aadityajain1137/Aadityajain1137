@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🔭 **Currently Building:**  
-  A **Full-Stack Event Management System** using **React, Node.js, Express & MongoDB**
+  A **Full Stack AI Resume Analyzer** using **React, Node.js, Express & MongoDB**
 
 - 🌱 **Currently Learning:**  
   **MERN Stack (Advanced)** & **Dynamic Programming (DSA)**
